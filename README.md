@@ -1,7 +1,6 @@
 # Zypher Job Assistant
 
-A simple AI-powered job application assistant built using **Zypher**, CoreSpeed’s AI agent framework.  
-This project was created as part of the **CoreSpeed technical assessment**.
+A simple AI-powered job application assistant built using **Zypher**, CoreSpeed’s AI agent framework. 
 
 The agent helps users with:
 - Summarizing job descriptions  
