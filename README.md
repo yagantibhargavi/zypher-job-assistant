@@ -1,4 +1,4 @@
-# Zypher Job Assistant
+#AI Job Assistant
 
 A simple AI-powered job application assistant built using **Zypher**, CoreSpeed’s AI agent framework. 
 
